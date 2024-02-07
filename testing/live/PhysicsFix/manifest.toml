@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://git.sr.ht/~redstrate/ffxiv-physics-fix"
+commit = "0b67009bc56e6af257b02b6d24ef213ab39fa1f6"
+owners = ["redstrate"]
+project_path = "PhysicsFix"
+changelog = "Initial release"
